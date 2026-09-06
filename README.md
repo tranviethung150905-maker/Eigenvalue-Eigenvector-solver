@@ -16,4 +16,4 @@ A C++ application for calculating eigenvalues and eigenvectors of 2×2 and 3×3 
 - Linear Algebra
 
 ## Developed
-2026
+2024
